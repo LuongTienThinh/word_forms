@@ -1,0 +1,35 @@
+[
+  {
+    "n": ["checkers", "checker", "check", "checks"],
+    "a": null,
+    "v": [
+      "checkered",
+      "checkering",
+      "checking",
+      "checkers",
+      "checked",
+      "checker",
+      "checks",
+      "check"
+    ],
+    "r": null
+  },
+  {
+    "n": ["fuckings", "fuck", "fucker", "fucking", "fucks", "fuckers"],
+    "a": ["fucking"],
+    "v": ["fucking", "fucks", "fucked", "fuck"],
+    "r": ["fucking"]
+  },
+  {
+    "n": ["buggies", "bug", "bugs", "bugginesses", "bugginess", "buggy"],
+    "a": ["buggy"],
+    "v": ["bugging", "bugs", "bugged", "bug"],
+    "r": null
+  },
+  {
+    "n": ["beach", "beaches"],
+    "a": null,
+    "v": ["beach", "beaching", "beaches", "beached"],
+    "r": null
+  }
+]
